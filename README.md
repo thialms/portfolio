@@ -11,7 +11,7 @@ Este projeto é um portfólio pessoal desenvolvido com **React**, **Vite** e **T
 
 ## 📸 Demonstração
 
-🚧 Em desenvolvimento...
+ https://portfolio-ten-sigma-44.vercel.app
 
 ## 📌 Funcionalidades
 
